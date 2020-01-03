@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Eric Chen'
+subtitle: 'I use data to answer interesting questions'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a data scientist in NYC, looking for challenging problems to tackle.

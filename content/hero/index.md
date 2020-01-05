@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Eric Chen'
-subtitle: 'I use data to answer interesting questions'
+subtitle: 'I use data to answer questions'
 contactText: 'Get In Touch'
 ---
 

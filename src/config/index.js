@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Eric Chen | Data Scientist',
   siteDescription:
     'Eric Chen is a Data Scientist in NYC, always looking for interesting problems to tackle',
-  siteKeywords: 'Eric Chen, Data Science, EZBUTS, software engineer',
+  siteKeywords: 'Eric Chen, Data Science, EZBUTD, software engineer',
   siteUrl: 'https://EZBUTD.netlify.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
